@@ -1,0 +1,8 @@
+E:\code\C#\AEBasic\AEBasic\bin\Debug\AEBasic.exe
+E:\code\C#\AEBasic\AEBasic\bin\Debug\AEBasic.pdb
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.csprojResolveAssemblyReference.cache
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.MainFrm.resources
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.Properties.Resources.resources
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.csproj.GenerateResource.Cache
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.exe
+E:\code\C#\AEBasic\AEBasic\obj\Debug\AEBasic.pdb
